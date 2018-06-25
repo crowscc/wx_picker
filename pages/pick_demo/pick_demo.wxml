@@ -1,0 +1,11 @@
+一级级联
+<customerPicker dataList="{{dataList1}}" columns="1" textLength="18" bind:pickConfrim="pickConfrim">
+</customerPicker>
+
+二级级联
+<customerPicker dataList="{{dataList2}}" columns="2" textLength="18" bind:pickConfrim="pickConfrim">
+</customerPicker>
+
+三级级联
+<customerPicker dataList="{{dataList3}}" columns="3" textLength="18" bind:pickConfrim="pickConfrim">
+</customerPicker>

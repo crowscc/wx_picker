@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "customerPicker": "../../components/picker/picker"
+  }
+}
